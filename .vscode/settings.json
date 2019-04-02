@@ -3,5 +3,5 @@
         "source.fixAll": true,
         "source.organizeImports": true
     },
-    "eslint.autoFixOnSave": true
+    "editor.formatOnSave": true
 }
